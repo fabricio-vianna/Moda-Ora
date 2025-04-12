@@ -49,14 +49,14 @@ Este projeto representou uma excelente oportunidade para aplicar conhecimentos d
 
 ---
 
-<p style="display: flex; align-items: center; gap: 10px;">
+<p style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   Desenvolvido por Fabricio Vianna |
   <a href="https://www.linkedin.com/in/fabricio-vianna" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; color: inherit;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="margin-right: 5px;">
     LinkedIn
   </a> |
   <a href="https://github.com/fabricio-vianna" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" alt="GitHub" width="20" style="margin-right: 5px; background-color: #000; border-radius: 50%;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20" style="margin-right: 5px;">
     GitHub
   </a>
 </p>
