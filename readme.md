@@ -47,6 +47,10 @@ Este projeto representou uma excelente oportunidade para aplicar conhecimentos d
 - Desenvolvimento de páginas adicionais (catálogo de produtos, detalhes do produto, checkout)
 - Implementação de recursos de acessibilidade adicionais
 
+###📚 Inspiração
+
+Este projeto foi inspirado nas aulas do curso do Daniel Tapias. Agradeço pelo conteúdo compartilhado e pelos ensinamentos!
+
 ---
 
 <p style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
